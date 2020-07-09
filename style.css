@@ -18,3 +18,39 @@ background-color: yellowgreen;
 cursor: pointer;
 border-radius: 10px;
 }
+.cat1, .cat2 , .cat3{
+    padding: 20px 10px;
+    border-radius: 20px;
+}
+.cat1{
+background-color: wheat;
+
+}
+.cat2{
+background-color: thistle;
+
+}
+.cat3{
+background-color: pink;
+
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightslategray;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+
+    color: lightslategrey;
+}
+footer{
+    text-align: center;
+}
