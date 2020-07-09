@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg-o{
+    background-image: linear-gradient(to right, rgb(226, 81, 81) , yellow);
+    border-radius: 20px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(38, 96, 134);
+}
+.buy-new-button{
+    padding: 9px 20px;
+color: white;
+background-color: yellowgreen;
+cursor: pointer;
+border-radius: 10px;
+}
